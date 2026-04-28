@@ -5,4 +5,4 @@ eeprom_total_size: 8192
 vid: 0x4291
 pid: 0x5E6A
 unique_id: 0x0
-friendly_name: "MegaDrive"
+friendly_name: "test"
